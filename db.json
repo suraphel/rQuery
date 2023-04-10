@@ -1,0 +1,101 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John ",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Janejkfla;sfDoe",
+      "email": "jane.doe@example.com"
+    },
+    {
+      "id": 3,
+      "name": " Doe",
+      "email": "Doe.doe@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane ",
+      "email": "jane.doe@example.com"
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@houtmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "jane.doe@yahoo.com"
+    },
+    {
+      "id": 3,
+      "name": "Jane Doe",
+      "email": "jane.doe@yahoo.com"
+    },
+    {
+      "id": 4,
+      "name": "Jane Doe",
+      "email": "jane.doe@yahoo.com"
+    },
+    {
+      "id": 5,
+      "name": "John Doe",
+      "email": "john.doe@houtmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Jane Doe",
+      "email": "jane.doe@yahoo.com"
+    },
+    {
+      "id": 7,
+      "name": "Jane Doe",
+      "email": "jane.doe@yahoo.com"
+    },
+    {
+      "name": "suri",
+      "password": "some",
+      "id": 26
+    },
+    {
+      "name": "suri",
+      "password": "sura",
+      "id": 27
+    },
+    {
+      "name": "mamo",
+      "password": "welday",
+      "id": 28
+    },
+    {
+      "name": "sisty",
+      "password": "eye",
+      "id": 29
+    },
+    {
+      "name": "test",
+      "email": "what?",
+      "id": 30
+    },
+    {
+      "name": "where ",
+      "password": "how",
+      "id": 31
+    },
+    {
+      "name": "test500",
+      "password": "ans500",
+      "id": 32
+    },
+    {
+      "name": "now",
+      "email": "then",
+      "id": 33
+    }
+  ]
+}
